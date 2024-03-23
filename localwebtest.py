@@ -15,10 +15,10 @@ def errorpage(statcode):
 @app.route("/",defaults={'path':'index.html'})
 @app.route("/<path:path>")
 def general(path):
-	if os.path.isdir("pages/"+path): path+="/index.html"
-	if not os.path.isfile("pages/"+path): return errorpage(404)
+	if os.path.isdir("docs/"+path): path+="/index.html"
+	if not os.path.isfile("docs/"+path): return errorpage(404)
 
-	file = open("pages/"+path,"rb")
+	file = open("docs/"+path,"rb")
 	content = file.read()
 	file.close()
 
