@@ -19,18 +19,25 @@ Projects I'd like to get to at some point (in order of importance):
 
 ## Languages
 Fluent:
-C, Python
+- C
+- Python
 Know:
-C++, Java, GNU make
+- C++
+- Java
+- GNU make
 Learning:
-C#
+- C#
 Might get to at some point:
-Javascript, Assembly, CMake
+- Javascript
+- Assembly
+- CMake
 
 ## Libraries
 Know:
-SDL, pygame
+- SDL
+- pygame
 Learning:
-SDL, tkinter
+- SDL
+- tkinter
 Might get to at some point:
-matplotlib
+- matplotlib
