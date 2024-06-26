@@ -18,12 +18,19 @@ Projects I'd like to get to at some point (in order of importance):
 - My own kernel
 
 ## Languages
-Fluent: C, Python
-Know: C++, Java, GNU make
-Learning: C#
-Might get to at some point: Javascript, Assembly, CMake
+Fluent:
+C, Python
+Know:
+C++, Java, GNU make
+Learning:
+C#
+Might get to at some point:
+Javascript, Assembly, CMake
 
 ## Libraries
-Know: SDL, pygame
-Learning: SDL, tkinter
-Might get to at some point: matplotlib
+Know:
+SDL, pygame
+Learning:
+SDL, tkinter
+Might get to at some point:
+matplotlib
