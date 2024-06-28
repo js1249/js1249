@@ -1,5 +1,3 @@
-I'm Jordan Smith!
-
 ## Bio
 I'm a hobbyist programmer who hope to be an engineer some day.
 
