@@ -1,5 +1,5 @@
 ## Bio
-I'm a hobbyist programmer who hope to be an engineer some day.
+I'm a hobbyist programmer who hopes to be an engineer some day.
 
 ## Projects
 Projects I'd like to get to at some point (in order of importance):
